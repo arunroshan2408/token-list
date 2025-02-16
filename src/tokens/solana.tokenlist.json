@@ -1,6 +1,6 @@
 {
   "chainId": 101,
-  "address": "7uKk664gsxPKR9K6R8eRk7RpAczxjPq2kL8GMU3ypae4",
+  "address": "6rw4VtNYds2yyPQzY5uVgqGWHTb7RY4JvYnvTRwRxPq6",
   "symbol": "ROAR",
   "name": "Roar Coin",
   "decimals": 9,
@@ -10,6 +10,7 @@
     "website": "https://bsttrader.wixsite.com/roarcoin",
     "twitter": "https://twitter.com/your_twitter",
     "discord": "https://discord.gg/mAQBywJc",
+    "telegram": "https://t.me/your_telegram_group",
     "description": "Roar Coin is a community-driven meme coin on Solana!"
   }
 }
